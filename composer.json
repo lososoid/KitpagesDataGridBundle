@@ -28,7 +28,6 @@
         "beberlei/DoctrineExtensions": "0.3.0",
         "phpunit/phpunit": "*",
         "phpunit/dbunit": "*",
-
         "patchwork/dumper": "~1.2"
     },
     "autoload": {
